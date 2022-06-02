@@ -2,7 +2,7 @@
 
 
 
-<p>Eu sou o <a href="www.linkedin.com/in/antony-danilo-894506209/"><b>Antony Danilo</b></a> <br>
+<p>Eu sou o <a href="https://www.linkedin.com/in/antony-danilo/"><b>Antony Danilo</b></a> <br>
 E seja Bem vindo(a/e) ao meu Github.</p>
 <h2></h2>
 
